@@ -1,0 +1,3 @@
+services:
+  factorio:
+    command: ["--start-server", "/opt/factorio/shared/save.zip"]
